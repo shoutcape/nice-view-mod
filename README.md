@@ -36,7 +36,7 @@ Now simply swap out the default nice_view shield on the board for the custom one
 ---
 include:
   - board: nice_nano_v2
-    shield: urchin_left nice_view_adapter  nice_view_custom #custom shield
+    shield: splitkb_aurora_corne_left nice_view_adapter nice_view_custom
   - board: nice_nano_v2
-    shield: urchin_right nice_view_adapter nice_view_custom #custom shield
+    shield: splitkb_aurora_corne_right nice_view_adapter nice_view_custom
 ```

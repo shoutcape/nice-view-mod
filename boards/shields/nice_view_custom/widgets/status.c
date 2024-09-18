@@ -117,6 +117,7 @@ static void draw_top(lv_obj_t *widget, lv_color_t cbuf[], const struct status_st
     /*    points[i].y = 60 - (state->wpm[i] - min) * 36 / range;*/
     /*}*/
     /*lv_canvas_draw_line(canvas, points, 10, &line_dsc);*/
+    /*// --Draw WPM--*/
 
     // Rotate canvas
     rotate_canvas(canvas, cbuf);
